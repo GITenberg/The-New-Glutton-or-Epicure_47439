@@ -1,4 +1,8 @@
 _repo: The-New-Glutton-or-Epicure_47439
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47439-h/images/cover.jpg
 creator:
   author:
     agent_name: Fletcher, Horace
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43027
     wikipedia: https://en.wikipedia.org/wiki/Horace_Fletcher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47439#The-New-Glutton-or-Epicure
 gutenberg_issued: '2014-11-23'
 gutenberg_type: Text
 identifiers:
